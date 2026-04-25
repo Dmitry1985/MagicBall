@@ -80,7 +80,7 @@ device or software malfunctions.
 6. Data Processing and Privacy
 
 6.1. Use of the Application is governed by the Privacy Policy available at:
-https://github.com/Dmitry1985/Bmi_calculator2/blob/a768c1bf09c138b1b3e781e282709a8eb2a5a377/Privacy%20policy
+https://github.com/Dmitry1985/MagicBall/blob/main/privacy%20policy%20en.md
 
 6.2. The Application may process anonymized technical data (such as usage statistics and device parameters) to improve service quality.
 
